@@ -1,0 +1,107 @@
+<data>
+    <artworks>
+        <!-- Loop through each work item -->
+        <data>
+    <artworks>
+        <!-- Loop through each work item -->
+        <work>
+            <id>work-1</id>
+            <title>Untitled (Fortune Cookie Corner) 1990</title>
+            <description>
+                Untitled (Fortune Cookie Corner) consists of a large pile of fortune cookies displayed in a corner of a room. The viewers are invited to take a cookie from the pile. The endless supply aspect of the artwork means that the pile of cookies is continuously replenished, creating an impression that the supply of cookies is never-ending.
+            </description>
+            <imgSrc>images/untitled (fortune cookie corner) 1990.jpeg</imgSrc>
+            <publisher>Félix González-Torres Foundation</publisher>
+        </work>
+        
+        <work>
+            <id>work-2</id>
+            <title>Untitled-Rossmore</title>
+            <description>This work contains 42 lightbulbs, porcelain light sockets, and an electrical chord. Overall dimensions vary.</description>
+            <imgSrc>images/Untitled (Rossmore) 1992.jpeg</imgSrc>
+            <publisher>Félix González-Torres Foundation</publisher>
+        </work>
+        
+        <work>
+            <id>work-3</id>
+            <title>Untitled (print on paper)</title>
+            <description>Untitled from 1992/1993 is a minimalist and conceptual piece that invites viewers to engage with it on multiple levels.</description>
+            <imgSrc>images/untitled Print on Paper Endless Supply 1992 93.jpeg</imgSrc>
+            <publisher>Félix González-Torres Foundation</publisher>
+        </work>
+        
+        <work>
+            <id>work-4</id>
+            <title>Untitled (couple)</title>
+            <description>Gonzalez-Torres often used simple and minimalist forms to convey complex emotions and concepts related to love and intimacy. This work has two parts, each with 24 light sockets, and electrical cords. Overall dimensions vary with installation.</description>
+            <imgSrc>images/untitled (couple).jpeg</imgSrc>
+            <publisher>Félix González-Torres Foundation</publisher>
+        </work>
+        
+        <work>
+            <id>work-5</id>
+            <title>Untitled (go-go dancing platform) 1991</title>
+            <description>This work uses wood, light bulbs, light sockets, electrical cord, and acrylic paint. This work is also a performance art piece.</description>
+            <imgSrc>images/untitled (go-go dancing platform) 1991.jpeg</imgSrc>
+            <publisher>Félix González-Torres Foundation</publisher>
+        </work>
+        
+        <work>
+            <id>work-6</id>
+            <title>Untitled (USA Today)</title>
+            <description>This work has an endless supply of silver, red, and blue candies. Dimensions vary with installation.</description>
+            <imgSrc>images/untitled (usa today) 90.jpeg</imgSrc>
+            <publisher>Félix González-Torres Foundation</publisher>
+        </work>
+        <!-- Add more work entries as needed -->
+    </artworks>
+    
+    <exhibitions>
+        <!-- Loop through each exhibition item -->
+        <exhibition>
+            <title>Sequins- Shimmer, Rotterdam, Netherlands</title>
+            <date>September 2 - December 5, 2023</date>
+        </exhibition>
+        
+        <exhibition>
+            <title>As Long as I Can- Festaal Neues Schloss, Bad Muskau, Germany</title>
+            <date>Lausitz Festival 2023 - August 26 - September 17, 2023</date>
+        </exhibition>
+        
+        <exhibition>
+            <title>fugacity</title>
+            <date>August 4 - September 10, 2023</date>
+        </exhibition>
+        
+        <exhibition>
+            <title>Auditions for an Unwritten Opera</title>
+            <date>July 14 - October 8, 2023</date>
+        </exhibition>
+        
+        <exhibition>
+            <title>Joan Didion: What She Means</title>
+            <date>July 13, 2023 - January 7, 2024</date>
+        </exhibition>
+        
+        <exhibition>
+            <title>Before Tomorrow- Astrup Fearnley Museet</title>
+            <date>June 22 - October 8, 2023</date>
+        </exhibition>
+        
+        <exhibition>
+            <title>Love</title>
+            <date>June 22 - October 8, 2023</date>
+        </exhibition>
+        
+        <exhibition>
+            <title>Collection Installation</title>
+            <date>June 12, 2023 - ongoing</date>
+        </exhibition>
+        
+        <exhibition>
+            <title>Amy Sherald's Portrait of Breonna Taylor</title>
+            <date>June 7 - November 26, 2023</date>
+        </exhibition>
+        <!-- Add more exhibition entries as needed -->
+    </exhibitions>
+</data>
